@@ -1,0 +1,9 @@
+# Ignore node_modules and env files
+frontend/node_modules/
+backend/node_modules/
+frontend/.env
+backend/.env
+
+# Optional: ignore log files, OS junk, etc.
+*.log
+.DS_Store

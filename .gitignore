@@ -2,8 +2,8 @@
 frontend/node_modules/
 backend/comment_service/node_modules/
 backend/message_broker/node_modules/
-backend/snippet_service/node_modules/
 backend/query_service/node_modules/
+backend/snippet_service/node_modules/
 frontend/.env
 backend/.env
 
